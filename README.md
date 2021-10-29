@@ -1,6 +1,6 @@
 require minimum rasa 2.0 
 
-create fresh bot with: rasa init
+create vanilla bot with: rasa init
 
 copy these files in project directory
 
