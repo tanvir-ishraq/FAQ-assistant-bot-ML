@@ -1,4 +1,4 @@
-require minimum rasa 2.0 
+require rasa version:2.x 
 
 create vanilla bot with: rasa init
 
