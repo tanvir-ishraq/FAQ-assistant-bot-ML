@@ -7,3 +7,5 @@ copy these files in project directory
 run command: rasa train
 
 Now to chat with bot: rasa shell
+
+tag: nlp, deep learning
